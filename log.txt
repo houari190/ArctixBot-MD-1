@@ -1,0 +1,557 @@
+Sat Jun 25 21:51:30 2022
+Unknown platform.
+Ren'Py 7.5.0.63n
+ 
+
+Bootstrap to the start of init.init took 0.00s
+Bootstrap to the start of init.init took 0.00s
+Manufacturer samsung model SM-A750F
+Screen diagonal is 5.87801160327 inches.
+Early init took 0.14s
+Early init took 0.14s
+Android search paths: /storage/emulated/0/Android/data/be.hrpb4/files/../../../../Documents/BE/be.hrpb4/game /data/data/be.hrpb4/files/game
+Loader init took 0.06s
+Loader init took 0.06s
+Loading error handling took 0.08s
+Loading error handling took 0.08s
+Loading script took 1.28s
+Loading script took 1.28s
+Saving to /storage/emulated/0/Android/data/be.hrpb4/files/../../../../Documents/BE/be.hrpb4
+Loading save slot metadata. took 0.04s
+Loading save slot metadata. took 0.04s
+Loading persistent took 0.00s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Set script version to: (7, 0, 0)
+Running init code took 0.35s
+Running init code took 0.35s
+Loading analysis data took 0.64s
+Loading analysis data took 0.64s
+Analyze and compile ATL took 0.15s
+Analyze and compile ATL took 0.15s
+Index archives took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.00s
+Dump and make backups. took 0.00s
+Cleaning cache took 0.00s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.26s
+Initial gc. took 0.26s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.33s
+Init translation took 0.33s
+Build styles took 0.01s
+Build styles took 0.01s
+Load screen analysis took 0.18s
+Load screen analysis took 0.18s
+Analyze screens took 0.01s
+Analyze screens took 0.01s
+Save screen analysis took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.68s
+Prepare screens took 0.68s
+Save pyanalysis. took 0.00s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Running _start took 0.00s
+Interface start took 0.53s
+Interface start took 0.53s
+
+Initializing gles renderer:
+primary display bounds: (0, 0, 2220, 1080)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: 'ARM'
+Renderer: 'Mali-G71'
+Version: 'OpenGL ES 3.2 v1.r19p0-01rel0.###other-sha0123456789ABCDEF0###'
+Display Info: None
+Number of texture units: 16
+Using shader environment.
+Using FBO RTT.
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+Using gles renderer.
+Texture testing:
+- Hardware max texture size: 8192
+- 64px textures work.
+- 128px textures work.
+- 256px textures work.
+- 512px textures work.
+- 1024px textures work.
+- 2048px textures work.
+Screen sizes: virtual=(1280, 720) physical=(2220, 1080) drawable=(2220, 1080)
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+Total time until interface ready: 5.33150005341s
+Hid presplash.
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+days of weak test
+day test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+days of weak test
+day test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+days of weak test
+day test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+events test
+all test complete
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+Entered background.
+Entering foreground.
+Screen sizes: virtual=(1280, 720) physical=(2094, 1017) drawable=(2094, 1017)
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+days of weak test
+day test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+days of weak test
+day test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+days of weak test
+day test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+days of weak test
+day test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+days of weak test
+day test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+days of weak test
+day test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+Entered background.
+Entering foreground.
+Screen sizes: virtual=(1280, 720) physical=(2094, 1017) drawable=(2094, 1017)
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+location test
+fail test
+fail test
+fail test
+days of weak test
+day test
+fail test
+fail test
+fail test
+fail test
+fail test
+days of weak test
+day test
+time test
+Entered background.
+Entering foreground.
+Screen sizes: virtual=(1280, 720) physical=(2094, 1017) drawable=(2094, 1017)
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+Entered background.
+Entering foreground.
+Screen sizes: virtual=(1280, 720) physical=(2094, 1017) drawable=(2094, 1017)
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
